@@ -1,0 +1,5 @@
+step to the left
+step to the right
+jump up and down
+clap twice
+yey
